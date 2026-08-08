@@ -28,11 +28,11 @@ independently of any single hosting service.
 
 ## Structure
 
-\`\`\`
+```
 heisukes-story/
   ep01/
   ep02/
   ...
-\`\`\`
+```
 
 Each episode folder contains the WebP image files for that chapter.
